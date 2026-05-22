@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Klipper Config — BTT SKR 3 EZ / 310×310 Cartesian
 
 Personal Klipper configuration for a cartesian bed-slinger with a BIQU H2 V2S direct drive extruder and BLTouch probe. Maintained here for version control, backup, and reference.
@@ -128,3 +129,7 @@ The `[safe_z_home]` position and `[bed_mesh]` min/max account for these offsets.
 - `stealthchop_threshold` is set to `999999` on X/Y/Z (always silent). Set to `0` on the extruder intentionally — stealthchop causes inconsistent extrusion on direct drive.
 - Y motor current is slightly higher (0.9A vs 0.8A) to compensate for moving bed mass.
 - `SAVE_CONFIG` will append calibration data below the marker at the bottom of `printer.cfg`. Do not edit that section manually.
+=======
+# motherbox-3dprinter
+Custom 310x310 Klipper printer build
+>>>>>>> 1a7932444b4baeb652288f02cdf6b16feed3ebf7
