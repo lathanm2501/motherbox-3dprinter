@@ -1,2 +1,2 @@
 # motherbox-3dprinter
-Custom 310x310 Kilpper printer build
+Custom 310x310 Klipper printer build
